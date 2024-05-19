@@ -36,6 +36,8 @@ yarn start
 
 #### Notes
 
+This project was created by [Victor Chan](https://github.com/VictorChan880), [Alena Wang](https://github.com/aalenaw), [Annabelle Woo](https://github.com/AnnabellebwWoo) and [JacobJung](https://github.com/JacobJungg) from Friday May 17th - Sunday May 19th
+
 dAuto utilzied [Kaggle](https://www.kaggle.com/code/niteshyadav3103/insurance-fraud-detection-using-12-models) to
 find reputable insurance claims for the machine learning algorithm
 
