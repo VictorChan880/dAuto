@@ -197,7 +197,7 @@ export default function Form({ onSubmit, policy_deductable,
             autoFocus
             id="policy_deductable"
             required
-            placeholder="Enter full amount($)"
+            placeholder="Enter full amount ($)"
           />
         </p>
         <p>Incident Date { incident_date }</p>
@@ -208,7 +208,7 @@ export default function Form({ onSubmit, policy_deductable,
             autoFocus
             id="message"
             required
-            placeholder="Enter full amount($)"
+            placeholder="Enter full amount ($)"
           />
         </p>
         <p>Policy Annual Premium { policy_annual_premium }</p>
@@ -230,7 +230,7 @@ export default function Form({ onSubmit, policy_deductable,
             autoFocus
             id="message"
             required
-            placeholder="Single Vehicle Collision, Multi-Vehicle Collition, etc."
+            placeholder="Single Vehicle Collision, Multi-Vehicle Collision, etc."
           />
         </p>
         <p>Collision Type { collision_type }</p>
