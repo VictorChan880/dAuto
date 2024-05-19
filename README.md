@@ -19,16 +19,13 @@ the problem of lengthy insurance claims, with zero transperancy of where your cl
 crypto and a machine learning algorithm trained off of 30,000 unique insurance claims, dAuto gets you your
 money when you really need it. 
 
-#Setup
-Clone the repository and cd into the front end folder
+# Setup
 
-`cd frontend`
+`cd frontend
 
-Run Yarn
+yarn
 
-`yarn`
-
-`yarn start`
+yarn start`
 
 
 dAuto utilzied [Kaggle](https://www.kaggle.com/code/niteshyadav3103/insurance-fraud-detection-using-12-models) to
