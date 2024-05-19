@@ -21,9 +21,11 @@ money when you really need it.
 
 #Setup
 Clone the repository and cd into the front end folder
+
 `cd frontend`
 
 Run Yarn
+
 `yarn`
 
 `yarn start`
