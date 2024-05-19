@@ -30,6 +30,9 @@ yarn start
 ```
 
 
+
+#### Notes
+
 dAuto utilzied [Kaggle](https://www.kaggle.com/code/niteshyadav3103/insurance-fraud-detection-using-12-models) to
 find reputable insurance claims for the machine learning algorithm
 
