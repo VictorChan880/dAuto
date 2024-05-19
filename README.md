@@ -14,7 +14,13 @@
 
 ![Landing1](https://github.com/VictorChan880/dAuto/assets/68559144/ec9c0592-3391-4f49-82aa-5e9d5ec4494e)
 ![Landing2](https://github.com/VictorChan880/dAuto/assets/68559144/cc48a602-ebee-4af2-8043-b87a68547fd0)
-Landing page
+dAuto harnesses the power of NEAR, a crypto currency, to complete end to end transactions. We overcome
+the problem of lengthy insurance claims, with zero transperancy of where your claim is. By utilizing
+crypto and a machine learning algorithm trained off of 30,000 unique insurance claims, dAuto gets you your
+money when you really need it. 
 
-![NEAR](https://github.com/VictorChan880/dAuto/assets/68559144/963ca740-9bb4-4fe1-946d-a298880d475d)
-NEAR Wallet, linkage
+
+
+dAuto utilzied [Kaggle](https://www.kaggle.com/code/niteshyadav3103/insurance-fraud-detection-using-12-models) to
+find reputable insurance claims for the machine learning algorithm
+dAuto is built over a [NEAR template](https://github.com/near-examples/guest-book-examples)
