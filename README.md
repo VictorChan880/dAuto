@@ -7,7 +7,7 @@
 ![example workflow](https://github.com/near-examples/guest-book-examples/actions/workflows/tests-ts.yml/badge.svg)
 ![example workflow](https://github.com/near-examples/guest-book-examples/actions/workflows/tests-rs.yml/badge.svg)
 
-dAuto uses...
+# dAuto uses...
  - NEAR Blockchain, enabling immutable records and increasing transperancy
  - Machine Learning, to accuratley assess fradulant claims in real-time
  - Peer to Peer service, connecting people with a community driven insurance experience
