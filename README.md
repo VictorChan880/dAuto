@@ -12,9 +12,9 @@ dAuto uses...
 -Machine Learning, to accuratley assess fradulant claims in real-time
 -Peer to Peer service, connecting people with a community driven insurance experience
 
-![Landing1] ("https://github.com/VictorChan880/dAuto/assets/68559144/ec9c0592-3391-4f49-82aa-5e9d5ec4494e")
-![Landing2]("https://github.com/VictorChan880/dAuto/assets/68559144/cc48a602-ebee-4af2-8043-b87a68547fd0")
+![Landing1] (https://github.com/VictorChan880/dAuto/assets/68559144/ec9c0592-3391-4f49-82aa-5e9d5ec4494e)
+![Landing2](https://github.com/VictorChan880/dAuto/assets/68559144/cc48a602-ebee-4af2-8043-b87a68547fd0)
 Landing page
 
-![NEAR]("https://github.com/VictorChan880/dAuto/assets/68559144/963ca740-9bb4-4fe1-946d-a298880d475d")
+![NEAR](https://github.com/VictorChan880/dAuto/assets/68559144/963ca740-9bb4-4fe1-946d-a298880d475d)
 NEAR Wallet, linkage
