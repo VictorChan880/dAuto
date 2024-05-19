@@ -38,7 +38,7 @@ html::selection {
 body {
   margin: 0 auto;
   padding: 0 1em;
-  max-width: 40em;
+  max-width: 60em;
 }
 
 fieldset {
@@ -139,4 +139,140 @@ button:active {
 
 table button {
   margin-left: 1rem;
+}
+
+/**/
+h1 {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+  font-size: 35px;
+}
+/**/
+.container {
+  display: flex; 
+}
+
+.grey-div, .white-div {
+  flex: 1;
+  padding: 20px;
+}
+
+.grey-div, .white1-div {
+  flex: 1;
+  padding: 20px;
+}
+
+.grey-div, .white2-div {
+  flex: 1;
+  padding: 20px;
+}
+
+.grey-div, .white3-div {
+  flex: 1;
+  padding: 20px;
+}
+
+.grey-div {
+  background-color: #e0e0e0; 
+}
+
+.white-div {
+  margin-top: 5%;
+  align-items: center;
+  justify-content: center;
+}
+
+.white1-div {
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  display: flex;
+}
+
+.white1-div img {
+  max-width: 50%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.white2-div {
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  display: flex;
+}
+
+.white2-div img {
+  max-width: 80%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.white3-div {
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  display: flex;
+}
+
+.white3-div img {
+  max-width: 60%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+
+
+/**/
+.button-container {
+  width:105%;
+}
+
+.button-container img {
+  margin-top: 5px;
+  max-width: 45%;
+  object-fit: contain; 
+}
+
+.container {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between; /* Add space between items */
+}
+
+.box {
+  width: calc(33.33% - 20px); /* Calculate width for each box with space in between */
+  padding: 20px; /* Add padding for spacing */
+  background-color: #f0f0f0; /* Background color for boxes */
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-color: #3E48CE;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 20px;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+
+.footer {
+  width: 100%;
+  height: 100px; /* Adjust the height as needed */
+  background-color: f0f0f0;
+  position: absolute; /* Position at the bottom */
+  bottom: 0; /* Align it at the bottom */
+  left: 0; /* Align it to the left edge */
+  border-top: 1px solid #f0f0f0; /* Optional border at the top */
+  text-align: center; /* Center the text horizontally */
+  line-height: 100px; /* Vertically center the text */
 }
